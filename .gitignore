@@ -1,0 +1,16 @@
+node_modules/
+.DS_Store
+.log
+.p12
+.vscode
+cypress/screenshots/*
+cypress/videos/*
+cypress/downloads/*
+cypress/results/*
+cypress/reports/*
+coverage/*
+.nyc_output/*
+cypress-testrail-reporter/*
+allure-results/*
+allure-report/*
+cypress/config/dev-*.json

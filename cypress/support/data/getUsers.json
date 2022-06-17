@@ -1,0 +1,30 @@
+{
+    "error": false,
+    "message": null,
+    "redirect": null,
+    "data": [
+      {
+        "departmentFullName": null,
+        "departmentShortName": null,
+        "cityName": null,
+        "userId": 327,
+        "departmentId": null,
+        "parentDepartmentId": null,
+        "userName": "Ляпина Е.А.",
+        "family": null,
+        "name": null,
+        "secondName": null,
+        "login": "SUEKCORP\\LiapinaEA",
+        "password": null,
+        "isDomain": false,
+        "isDeleted": false,
+        "avayaUser": null,
+        "post": null,
+        "email": null,
+        "siriusCode": null,
+        "siriusUser": null,
+        "cityId": null,
+        "citySiriusCode": null
+      }
+    ]
+  }

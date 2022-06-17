@@ -1,0 +1,24 @@
+{
+  "error": false,
+  "message": null,
+  "redirect": null,
+  "data": [
+    {
+      "approachId": 1957283,
+      "approachTypeId": 0,
+      "approachTypeName": "Входящее",
+      "themes": "Сверить расчет по всем услугам",
+      "state": 1,
+      "stateName": "В работе",
+      "completeDate": null,
+      "creationUserName": "Ляпина Е.А.",
+      "creationDate": "27.04.2021 12:12:00",
+      "tasks": null,
+      "agreements": null,
+      "attachments": null,
+      "accountNumber": null,
+      "clientName": null,
+      "addressString": null
+    }
+  ]
+}
